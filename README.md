@@ -36,7 +36,20 @@ Para ejecutar el proyecto:
 ## 🧑‍💻 Ejemplo de Entrada
 
 ```plaintext
-Valor encontrado en: 2
+Hello World
+Persona [nombre=Maria, edad=30, direccion=Direccion [calle=Calle 2, numeroCalle=23, codigo=56]]
+Persona [nombre=Pedro, edad=35, direccion=Direccion [calle=Calle 3, numeroCalle=34, codigo=67]]
+Persona [nombre=Ana, edad=28, direccion=Direccion [calle=Calle 4, numeroCalle=45, codigo=78]]
+Persona [nombre=Juan, edad=25, direccion=Direccion [calle=Calle 1, numeroCalle=12, codigo=45]]
+Persona [nombre=Luis, edad=40, direccion=Direccion [calle=Calle 5, numeroCalle=56, codigo=89]]
+------------------------
+Persona [nombre=Luis, edad=40, direccion=Direccion [calle=Calle 5, numeroCalle=56, codigo=89]]
+Persona [nombre=Ana, edad=28, direccion=Direccion [calle=Calle 4, numeroCalle=45, codigo=78]]
+Persona [nombre=Pedro, edad=35, direccion=Direccion [calle=Calle 3, numeroCalle=34, codigo=67]]
+Persona [nombre=Maria, edad=30, direccion=Direccion [calle=Calle 2, numeroCalle=23, codigo=56]]
+Persona [nombre=Juan, edad=25, direccion=Direccion [calle=Calle 1, numeroCalle=12, codigo=45]]
+------------------------
+La persona es Persona [nombre=Maria, edad=30, direccion=Direccion [calle=Calle 2, numeroCalle=23, codigo=56]]
 ```
 
 ---
