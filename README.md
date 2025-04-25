@@ -6,7 +6,7 @@
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Jose Avecillas
-- **Fecha:** 13/4/2025
+- **Fecha:** 24/4/2025
 - **Profesor:** Ing. Pablo Torres
 
 ---
